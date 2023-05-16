@@ -1,0 +1,1 @@
+﻿select * from OwnerTable where username = 'Owner1'
